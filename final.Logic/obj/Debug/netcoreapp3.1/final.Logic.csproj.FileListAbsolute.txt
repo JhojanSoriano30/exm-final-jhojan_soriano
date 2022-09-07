@@ -1,0 +1,15 @@
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\obj\Debug\netcoreapp3.1\final.Logic.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\obj\Debug\netcoreapp3.1\final.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\obj\Debug\netcoreapp3.1\final.Logic.AssemblyInfoInputs.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\obj\Debug\netcoreapp3.1\final.Logic.AssemblyInfo.cs
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\obj\Debug\netcoreapp3.1\final.Logic.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\bin\Debug\netcoreapp3.1\final.Logic.deps.json
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\bin\Debug\netcoreapp3.1\final.Logic.dll
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\bin\Debug\netcoreapp3.1\final.Logic.pdb
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\bin\Debug\netcoreapp3.1\final.Data.dll
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\bin\Debug\netcoreapp3.1\final.dominio.dll
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\bin\Debug\netcoreapp3.1\final.Data.pdb
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\bin\Debug\netcoreapp3.1\final.dominio.pdb
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\obj\Debug\netcoreapp3.1\final.Logic.csproj.CopyComplete
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\obj\Debug\netcoreapp3.1\final.Logic.dll
+C:\Users\CLIENTE\Documents\CLASE-Desarollo de soluciones empresariales\Evaluación final\EvaluacionFinal\final.Logic\obj\Debug\netcoreapp3.1\final.Logic.pdb
